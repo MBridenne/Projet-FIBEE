@@ -1,9 +1,0 @@
-pillow
-numpy
-tensorflow
-tensorflow-gpu
-python-utils
-scipy
-scikit-learn
-scikit-image
-pyyaml
