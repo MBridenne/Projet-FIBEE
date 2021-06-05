@@ -16,7 +16,8 @@ Dans votre Drive, créer un dossier 'yolov4'. Dedans, importer les fichiers du d
 enregistrer les poids lors de l'apprentissage; images_pred pour mettre les images sur lesquelles on veut faire des prédictions; 
 video_pred pour mettre les vidéos sur lesquelles on veut faire des prédictions.
 
-Pour avoir les poids de notre modèle (fichiers trop gros pour être stockés sur Github), voir dans Teams. Idem pour notre base de données annotée. 
+A l'intention des professeurs du pôle projet IENV
+Pour avoir les poids de notre modèle (fichiers trop gros pour être stockés sur Github), voir dans Teams. Idem pour notre base de données d'images annotée. 
 
 Si des indications plus précises sont désirées, regardez: https://github.com/theAIGuysCode/YOLOv4-Cloud-Tutorial
 Un grand merci d'ailleurs à the AIGuy pour son travail d'explication et de vulgarisation!
